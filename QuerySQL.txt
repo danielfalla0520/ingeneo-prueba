@@ -1,0 +1,175 @@
+create table book
+(
+id int primary key,
+title varchar(50),
+description varchar(500),
+pageCount int,
+excerpt varchar(500),
+publishDate datetime
+)
+GO
+
+create table author
+(
+id int primary key,
+idBook int,
+firstname varchar(50),
+lastname varchar(50),
+foreign key (idBook) REFERENCES book(id)
+)
+GO
+
+create table [user]
+(
+id int primary key identity,
+email varchar(50),
+password varchar(50)
+)
+GO
+
+create procedure createUser_InsertCommand
+@email varchar(50),
+@password varchar(50)
+as
+begin
+	declare @idUser int
+
+	if not exists (select * from [user] where email = @email)
+	begin
+		insert into [user] (email,password) values (@email,@password)
+		set @idUser = SCOPE_IDENTITY()
+	end
+	else
+		select @idUser = id from [user] where email = @email
+
+	select id userId,email from [user] where id = @idUser
+
+end
+GO
+
+create procedure createBook_InsertCommand
+@id int,
+@title varchar(50),
+@description varchar(500),
+@pageCount int,
+@excerpt varchar(500),
+@publishDate datetime
+as
+begin
+
+	if not exists (select * from book where id = @id)
+	begin
+		insert into book 
+		(
+			id,
+			title,
+			description,
+			pageCount,
+			excerpt,
+			publishDate
+		) 
+		values 
+		(
+			@id,
+			@title,
+			@description,
+			@pageCount,
+			@excerpt,
+			@publishDate
+		)
+	end
+	else
+		update book
+		set title = @title,
+			description = @description,
+			pageCount = @pageCount,
+			excerpt = @excerpt,
+			publishDate = @publishDate
+		where id = @id
+
+	select id from book where id = @id
+
+end
+GO
+
+alter procedure createAuthor_InsertCommand
+@id int,
+@idBook int,
+@firstname varchar(50),
+@lastname varchar(50)
+as
+begin
+	declare @idAutor int
+
+	if not exists (select * from author where id = @id)
+	begin
+		insert into author 
+		(
+			id,
+			idBook,
+			firstname,
+			lastname
+		) 
+		values 
+		(
+			@id,
+			@idBook,
+			@firstname,
+			@lastname
+		)
+	end
+	else
+		update author
+		set idBook = @idBook,
+			firstname = @firstname,
+			lastname = @lastname
+		where id = @id
+
+	select id from author where id = @id
+
+end
+GO
+
+create procedure getBooks_SelectCommand
+as
+begin
+	select * from book
+end
+GO
+
+create procedure getBooksById_SelectCommand
+@idBook int
+as
+begin
+	select * from book where id = @idBook
+end
+GO
+
+create procedure getAuthors_SelectCommand
+as
+begin
+	select * from author
+end
+GO
+
+create procedure getAuthorsById_SelectCommand
+@idAuthor int
+as
+begin
+	select * from author where id = @idAuthor
+end
+GO
+
+
+create procedure loginUser
+@email varchar(50),
+@password varchar(50)
+as 
+begin
+	if exists (select * from [user] where email = @email and password = @password)
+	begin 
+		select * from [user] where email = @email and password = @password
+	end
+	else
+		select 'User or password incorrect' as error
+end

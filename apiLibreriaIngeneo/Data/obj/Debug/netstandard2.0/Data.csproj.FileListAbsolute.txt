@@ -1,0 +1,12 @@
+D:\Daniel\MyProyects\apiLibreriaIngeneo\Data\bin\Debug\netstandard2.0\Data.deps.json
+D:\Daniel\MyProyects\apiLibreriaIngeneo\Data\bin\Debug\netstandard2.0\Data.dll
+D:\Daniel\MyProyects\apiLibreriaIngeneo\Data\obj\Debug\netstandard2.0\Data.csprojAssemblyReference.cache
+D:\Daniel\MyProyects\apiLibreriaIngeneo\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+D:\Daniel\MyProyects\apiLibreriaIngeneo\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+D:\Daniel\MyProyects\apiLibreriaIngeneo\Data\bin\Debug\netstandard2.0\Model.dll
+D:\Daniel\MyProyects\apiLibreriaIngeneo\Data\bin\Debug\netstandard2.0\Model.pdb
+D:\Daniel\MyProyects\apiLibreriaIngeneo\Data\obj\Debug\netstandard2.0\Data.csproj.CopyComplete
+D:\Daniel\MyProyects\apiLibreriaIngeneo\Data\bin\Debug\netstandard2.0\Data.pdb
+D:\Daniel\MyProyects\apiLibreriaIngeneo\Data\obj\Debug\netstandard2.0\Data.dll
+D:\Daniel\MyProyects\apiLibreriaIngeneo\Data\obj\Debug\netstandard2.0\Data.pdb
+D:\Daniel\MyProyects\apiLibreriaIngeneo\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache

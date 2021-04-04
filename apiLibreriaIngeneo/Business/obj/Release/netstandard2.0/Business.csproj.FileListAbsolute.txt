@@ -1,0 +1,14 @@
+D:\Daniel\MyProyects\apiLibreriaIngeneo\Business\bin\Release\netstandard2.0\Business.deps.json
+D:\Daniel\MyProyects\apiLibreriaIngeneo\Business\bin\Release\netstandard2.0\Business.dll
+D:\Daniel\MyProyects\apiLibreriaIngeneo\Business\bin\Release\netstandard2.0\Business.pdb
+D:\Daniel\MyProyects\apiLibreriaIngeneo\Business\bin\Release\netstandard2.0\Data.dll
+D:\Daniel\MyProyects\apiLibreriaIngeneo\Business\bin\Release\netstandard2.0\Model.dll
+D:\Daniel\MyProyects\apiLibreriaIngeneo\Business\bin\Release\netstandard2.0\Data.pdb
+D:\Daniel\MyProyects\apiLibreriaIngeneo\Business\bin\Release\netstandard2.0\Model.pdb
+D:\Daniel\MyProyects\apiLibreriaIngeneo\Business\obj\Release\netstandard2.0\Business.csprojAssemblyReference.cache
+D:\Daniel\MyProyects\apiLibreriaIngeneo\Business\obj\Release\netstandard2.0\Business.AssemblyInfoInputs.cache
+D:\Daniel\MyProyects\apiLibreriaIngeneo\Business\obj\Release\netstandard2.0\Business.AssemblyInfo.cs
+D:\Daniel\MyProyects\apiLibreriaIngeneo\Business\obj\Release\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+D:\Daniel\MyProyects\apiLibreriaIngeneo\Business\obj\Release\netstandard2.0\Business.csproj.CopyComplete
+D:\Daniel\MyProyects\apiLibreriaIngeneo\Business\obj\Release\netstandard2.0\Business.dll
+D:\Daniel\MyProyects\apiLibreriaIngeneo\Business\obj\Release\netstandard2.0\Business.pdb
