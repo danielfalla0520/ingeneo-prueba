@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Daniel\\MyProyects\\apiLibreriaIngeneo\\Model\\Model.csproj": {}
+    "D:\\daniel.falla\\repos\\ingeo-prueba\\apiLibreriaIngeneo\\Model\\Model.csproj": {}
   },
   "projects": {
-    "D:\\Daniel\\MyProyects\\apiLibreriaIngeneo\\Model\\Model.csproj": {
+    "D:\\daniel.falla\\repos\\ingeo-prueba\\apiLibreriaIngeneo\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Daniel\\MyProyects\\apiLibreriaIngeneo\\Model\\Model.csproj",
+        "projectUniqueName": "D:\\daniel.falla\\repos\\ingeo-prueba\\apiLibreriaIngeneo\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "D:\\Daniel\\MyProyects\\apiLibreriaIngeneo\\Model\\Model.csproj",
+        "projectPath": "D:\\daniel.falla\\repos\\ingeo-prueba\\apiLibreriaIngeneo\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\Daniel.Falla\\.nuget\\packages\\",
-        "outputPath": "D:\\Daniel\\MyProyects\\apiLibreriaIngeneo\\Model\\obj\\",
+        "outputPath": "D:\\daniel.falla\\repos\\ingeo-prueba\\apiLibreriaIngeneo\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel.Falla\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ymex6CuO+yl4fZuhhjrLZrntbSBhQWC3MI0YdGroATLg0UzS9NGNgEmNeBHlgEhcDgSQ1P8xcioHZvYugl7BWg==",
+  "dgSpecHash": "/EZX35JQ+kk6qb1VVLEiCgxqmoMkSEi541PjBIsCcWPJEBY2o3CdSmTSbLAet8NOOkj/Kr/n5/3soGiOQA30mA==",
   "success": true,
-  "projectFilePath": "D:\\Daniel\\MyProyects\\apiLibreriaIngeneo\\apiLibreriaIngeneo\\apiLibreriaIngeneo.csproj",
+  "projectFilePath": "D:\\daniel.falla\\repos\\ingeo-prueba\\apiLibreriaIngeneo\\apiLibreriaIngeneo\\apiLibreriaIngeneo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daniel.Falla\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.13\\microsoft.aspnetcore.authentication.jwtbearer.3.1.13.nupkg.sha512",
     "C:\\Users\\Daniel.Falla\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

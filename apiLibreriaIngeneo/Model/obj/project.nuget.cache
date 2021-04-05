@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "voUWDOiMBM8cejXMaKgd+tzzxM55YCXojqh4bc9q5ub/dTHcdZwYeOnzZ8YhbXbcuHNtuL3OoKteuza9PHcOaA==",
+  "dgSpecHash": "MhrmI/m1nRkhtfNVxJWZIJD8JeWFn9mhVHBCWpGB2hL1cCv37Fv4dcxKSVnp6buFg2DB1cPsTrsGoiYAk7VcHw==",
   "success": true,
-  "projectFilePath": "D:\\Daniel\\MyProyects\\apiLibreriaIngeneo\\Model\\Model.csproj",
+  "projectFilePath": "D:\\daniel.falla\\repos\\ingeo-prueba\\apiLibreriaIngeneo\\Model\\Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daniel.Falla\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Daniel.Falla\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

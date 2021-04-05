@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hSbNXHCgkPSUPRubyiHT81Kc64qYe/T4OzyCVxf1iwJLhGtrTLob1J8evtPF2U15oaXAO0mT5VvAVS1oq5seJQ==",
+  "dgSpecHash": "lSFBxDasSb+mN5tceNBUpXB4FSvsarREIfuvyS/Taa5B2Ipz0zqfGgrq4BCxwgeYggcNpsnGqRocxfU63iCTBw==",
   "success": true,
-  "projectFilePath": "D:\\Daniel\\MyProyects\\apiLibreriaIngeneo\\Business\\Business.csproj",
+  "projectFilePath": "D:\\daniel.falla\\repos\\ingeo-prueba\\apiLibreriaIngeneo\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daniel.Falla\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Daniel.Falla\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",

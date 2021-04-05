@@ -10,3 +10,15 @@ D:\Daniel\MyProyects\apiLibreriaIngeneo\Data\obj\Release\netstandard2.0\Data.csp
 D:\Daniel\MyProyects\apiLibreriaIngeneo\Data\obj\Release\netstandard2.0\Data.csproj.CopyComplete
 D:\Daniel\MyProyects\apiLibreriaIngeneo\Data\obj\Release\netstandard2.0\Data.dll
 D:\Daniel\MyProyects\apiLibreriaIngeneo\Data\obj\Release\netstandard2.0\Data.pdb
+D:\daniel.falla\repos\ingeo-prueba\apiLibreriaIngeneo\Data\bin\Release\netstandard2.0\Data.deps.json
+D:\daniel.falla\repos\ingeo-prueba\apiLibreriaIngeneo\Data\bin\Release\netstandard2.0\Data.dll
+D:\daniel.falla\repos\ingeo-prueba\apiLibreriaIngeneo\Data\bin\Release\netstandard2.0\Data.pdb
+D:\daniel.falla\repos\ingeo-prueba\apiLibreriaIngeneo\Data\bin\Release\netstandard2.0\Model.dll
+D:\daniel.falla\repos\ingeo-prueba\apiLibreriaIngeneo\Data\bin\Release\netstandard2.0\Model.pdb
+D:\daniel.falla\repos\ingeo-prueba\apiLibreriaIngeneo\Data\obj\Release\netstandard2.0\Data.csprojAssemblyReference.cache
+D:\daniel.falla\repos\ingeo-prueba\apiLibreriaIngeneo\Data\obj\Release\netstandard2.0\Data.AssemblyInfoInputs.cache
+D:\daniel.falla\repos\ingeo-prueba\apiLibreriaIngeneo\Data\obj\Release\netstandard2.0\Data.AssemblyInfo.cs
+D:\daniel.falla\repos\ingeo-prueba\apiLibreriaIngeneo\Data\obj\Release\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+D:\daniel.falla\repos\ingeo-prueba\apiLibreriaIngeneo\Data\obj\Release\netstandard2.0\Data.csproj.CopyComplete
+D:\daniel.falla\repos\ingeo-prueba\apiLibreriaIngeneo\Data\obj\Release\netstandard2.0\Data.dll
+D:\daniel.falla\repos\ingeo-prueba\apiLibreriaIngeneo\Data\obj\Release\netstandard2.0\Data.pdb

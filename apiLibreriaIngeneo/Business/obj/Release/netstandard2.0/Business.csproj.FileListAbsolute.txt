@@ -12,3 +12,17 @@ D:\Daniel\MyProyects\apiLibreriaIngeneo\Business\obj\Release\netstandard2.0\Busi
 D:\Daniel\MyProyects\apiLibreriaIngeneo\Business\obj\Release\netstandard2.0\Business.csproj.CopyComplete
 D:\Daniel\MyProyects\apiLibreriaIngeneo\Business\obj\Release\netstandard2.0\Business.dll
 D:\Daniel\MyProyects\apiLibreriaIngeneo\Business\obj\Release\netstandard2.0\Business.pdb
+D:\daniel.falla\repos\ingeo-prueba\apiLibreriaIngeneo\Business\bin\Release\netstandard2.0\Business.deps.json
+D:\daniel.falla\repos\ingeo-prueba\apiLibreriaIngeneo\Business\bin\Release\netstandard2.0\Business.dll
+D:\daniel.falla\repos\ingeo-prueba\apiLibreriaIngeneo\Business\bin\Release\netstandard2.0\Business.pdb
+D:\daniel.falla\repos\ingeo-prueba\apiLibreriaIngeneo\Business\bin\Release\netstandard2.0\Data.dll
+D:\daniel.falla\repos\ingeo-prueba\apiLibreriaIngeneo\Business\bin\Release\netstandard2.0\Model.dll
+D:\daniel.falla\repos\ingeo-prueba\apiLibreriaIngeneo\Business\bin\Release\netstandard2.0\Data.pdb
+D:\daniel.falla\repos\ingeo-prueba\apiLibreriaIngeneo\Business\bin\Release\netstandard2.0\Model.pdb
+D:\daniel.falla\repos\ingeo-prueba\apiLibreriaIngeneo\Business\obj\Release\netstandard2.0\Business.csprojAssemblyReference.cache
+D:\daniel.falla\repos\ingeo-prueba\apiLibreriaIngeneo\Business\obj\Release\netstandard2.0\Business.AssemblyInfoInputs.cache
+D:\daniel.falla\repos\ingeo-prueba\apiLibreriaIngeneo\Business\obj\Release\netstandard2.0\Business.AssemblyInfo.cs
+D:\daniel.falla\repos\ingeo-prueba\apiLibreriaIngeneo\Business\obj\Release\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+D:\daniel.falla\repos\ingeo-prueba\apiLibreriaIngeneo\Business\obj\Release\netstandard2.0\Business.csproj.CopyComplete
+D:\daniel.falla\repos\ingeo-prueba\apiLibreriaIngeneo\Business\obj\Release\netstandard2.0\Business.dll
+D:\daniel.falla\repos\ingeo-prueba\apiLibreriaIngeneo\Business\obj\Release\netstandard2.0\Business.pdb
